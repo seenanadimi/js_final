@@ -1,8 +1,8 @@
 # Eight Ball
-Javascript Final Project 
-teacher: vinson
-class: js for beginners 
-completion date:
+Javascript Final Project\ 
+teacher: vinson\
+class: js for beginners \
+completion date:\
 
 
 ## Running On 
