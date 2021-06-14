@@ -1,5 +1,5 @@
 # Eight Ball
-Javascript Final Project \ 
+Javascript Final Project\ 
 teacher: vinson \
 class: js for beginners \
 completion date: \
