@@ -1,5 +1,8 @@
-# Bootstrap-Boilerplate
-A boilerplate for Bootstrap Projects
+# Eight Ball
+Javascript Final Project 
+teacher: vinson
+class: js for beginners 
+completion date:
 
 
 ## Running On 
